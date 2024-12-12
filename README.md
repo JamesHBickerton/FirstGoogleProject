@@ -8,4 +8,6 @@ I haven't yet learned responsive web design and am aware the media queries would
 
 I uploaded the link for the page here - https://statuesque-tanuki-d96e3e.netlify.app/
 
+I'm looking forward to looking back on this in the future. 
+
 Thanks!
